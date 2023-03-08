@@ -1,6 +1,6 @@
 # DEMO
 
- [weather App](https://weatherapp2-six.vercel.app/).
+ You can access the app here [weather App](https://weatherapp2-six.vercel.app/).
 
 # Application Features
 Can track the atmospheric condition of any country or city.
